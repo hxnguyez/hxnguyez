@@ -18,6 +18,9 @@ I mostly focus on Pwn and Reverse Engineering.
 - 🐈 I have a cute white cat.
 - 🎮 My favourite hobby is reading novels.
 - 🚀 I like building things that are simple, useful, and easy to understand.
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/876338724890349569)
+[![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hxnguyez)
 <!--
 **hxnguyez/hxnguyez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
