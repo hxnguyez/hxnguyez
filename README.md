@@ -2,12 +2,12 @@
 
 I'm Hung, a cybersecurity student/CTF player based in Vietnam.
 
-I mostly focus on Pwn and Reverse Engineering.
+While I'm focusing on building a strong academic foundation, I’m also specialized in Pwnable and Reverse Engineering for CTF competitions.
 
 ---
 
 ### Tools & Tech
-- **Languages:** C, Python (Pwntools), Assembly x86/x64
+- **Languages:** C, Python, Assembly x86/x64
 - **Debugger:** GDB, IDA Pro, Ghidra
 - **OS:** Ubuntu
 
