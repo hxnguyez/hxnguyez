@@ -8,13 +8,13 @@ Formerly a CTF player specialized in **Binary Exploitation**, I am currently shi
 
 ### 🔍 Current Focus
 - 🛡️ **Vulnerability Research:** Analyzing old CVE
-- 🚀 **Infrastructure:** Building research labs with **QEMU**, **WSL2**
+- 🚀 **Infrastructure:** Building research labs with **VM/WSL2 (Ubuntu)**
 - 📖 **Writing:** Sharing my daily research progress at [mybasicblog](https://www.chillfish.me/)
 
 ### 🛠️ Tools & Tech Stack
 - **Languages:** C/C++, Python, Assembly (x86/x64)
-- **Security:** GDB (GEF), IDA Pro, Ghidra, WinDbg
-- **Environment:** Ubuntu (WSL2), Windows
+- **Security:** pwngdb, IDA Pro, Ghidra
+- **Environment:** Ubuntu (WSL2/VM)
 
 ---
 
